@@ -1,7 +1,7 @@
 # Advanced Programming of Cryptographic Methods Project
 End-of-course project for Advanced Programming of Cryptographic Methods exam at University of Trento. <br>
 
-Authors: Letizia D'Achille, Sara Montanari
+Authors: Letizia D'Achille, Sara Montanari<br>
 Title of the project: <em>SecureSurvey</em>
 
 The source code in Java can be found, along with a corresponding report. <br>
